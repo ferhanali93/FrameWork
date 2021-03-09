@@ -1,10 +1,8 @@
 package reporting;
 
-
 import com.relevantcodes.extentreports.ExtentReports;
 import org.testng.ITestContext;
 import org.testng.Reporter;
-
 import java.io.File;
 
 public class ExtentManager {
@@ -29,3 +27,4 @@ public class ExtentManager {
 
     }
 }
+
