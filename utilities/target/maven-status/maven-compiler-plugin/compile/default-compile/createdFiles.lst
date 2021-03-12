@@ -1,6 +1,7 @@
-reporting/ApplicationLog.class
-reporting/ExtentTestManager.class
-reporting/TestLogger.class
 dbutility/DbUtilities.class
 browserdriver/BrowserDriver.class
 reporting/ExtentManager.class
+reporting/ApplicationLog.class
+reporting/ExtentTestManager.class
+excelreader/MyDataReader.class
+reporting/TestLogger.class
